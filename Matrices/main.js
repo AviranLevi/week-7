@@ -156,7 +156,7 @@ let em = new EmployeeMatrix()
 // console.log(em.findRichest()) //prints Anisha
 
 ////////////////////
-//Exercise #7 - ##//
+//Exercise #7 - #9//
 ////////////////////
 
 class TicTacToe extends Matrix {
